@@ -11,12 +11,12 @@
 html,
 body {
     background-color: rgb(19, 41, 75);
-background-image: -o-repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
--o-repeating-linear-gradient(right, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
--o-repeating-linear-gradient(325deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);
-background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
-repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
-repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);
+    background-image: -o-repeating-linear-gradient(transparent, transparent 50px, rgba(0, 0, 0, .4) 50px, rgba(0, 0, 0, .4) 53px, transparent 53px, transparent 63px, rgba(0, 0, 0, .4) 63px, rgba(0, 0, 0, .4) 66px, transparent 66px, transparent 116px, rgba(0, 0, 0, .5) 116px, rgba(0, 0, 0, .5) 166px, rgba(255, 255, 255, .2) 166px, rgba(255, 255, 255, .2) 169px, rgba(0, 0, 0, .5) 169px, rgba(0, 0, 0, .5) 179px, rgba(255, 255, 255, .2) 179px, rgba(255, 255, 255, .2) 182px, rgba(0, 0, 0, .5) 182px, rgba(0, 0, 0, .5) 232px, transparent 232px),
+        -o-repeating-linear-gradient(right, transparent, transparent 50px, rgba(0, 0, 0, .4) 50px, rgba(0, 0, 0, .4) 53px, transparent 53px, transparent 63px, rgba(0, 0, 0, .4) 63px, rgba(0, 0, 0, .4) 66px, transparent 66px, transparent 116px, rgba(0, 0, 0, .5) 116px, rgba(0, 0, 0, .5) 166px, rgba(255, 255, 255, .2) 166px, rgba(255, 255, 255, .2) 169px, rgba(0, 0, 0, .5) 169px, rgba(0, 0, 0, .5) 179px, rgba(255, 255, 255, .2) 179px, rgba(255, 255, 255, .2) 182px, rgba(0, 0, 0, .5) 182px, rgba(0, 0, 0, .5) 232px, transparent 232px),
+        -o-repeating-linear-gradient(325deg, transparent, transparent 2px, rgba(0, 0, 0, .2) 2px, rgba(0, 0, 0, .2) 3px, transparent 3px, transparent 5px, rgba(0, 0, 0, .2) 5px);
+    background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0, 0, 0, .4) 50px, rgba(0, 0, 0, .4) 53px, transparent 53px, transparent 63px, rgba(0, 0, 0, .4) 63px, rgba(0, 0, 0, .4) 66px, transparent 66px, transparent 116px, rgba(0, 0, 0, .5) 116px, rgba(0, 0, 0, .5) 166px, rgba(255, 255, 255, .2) 166px, rgba(255, 255, 255, .2) 169px, rgba(0, 0, 0, .5) 169px, rgba(0, 0, 0, .5) 179px, rgba(255, 255, 255, .2) 179px, rgba(255, 255, 255, .2) 182px, rgba(0, 0, 0, .5) 182px, rgba(0, 0, 0, .5) 232px, transparent 232px),
+        repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0, 0, 0, .4) 50px, rgba(0, 0, 0, .4) 53px, transparent 53px, transparent 63px, rgba(0, 0, 0, .4) 63px, rgba(0, 0, 0, .4) 66px, transparent 66px, transparent 116px, rgba(0, 0, 0, .5) 116px, rgba(0, 0, 0, .5) 166px, rgba(255, 255, 255, .2) 166px, rgba(255, 255, 255, .2) 169px, rgba(0, 0, 0, .5) 169px, rgba(0, 0, 0, .5) 179px, rgba(255, 255, 255, .2) 179px, rgba(255, 255, 255, .2) 182px, rgba(0, 0, 0, .5) 182px, rgba(0, 0, 0, .5) 232px, transparent 232px),
+        repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0, 0, 0, .2) 2px, rgba(0, 0, 0, .2) 3px, transparent 3px, transparent 5px, rgba(0, 0, 0, .2) 5px);
     margin: 0;
     padding: 0;
     font-family: 'Montserrat Regular', sans-serif;
@@ -29,12 +29,12 @@ repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     width: 100%;
 }
 
@@ -43,12 +43,12 @@ repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
 }
 
 .center-horizontal-footer {
@@ -56,12 +56,12 @@ repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     width: 100%;
 }
 
@@ -75,14 +75,14 @@ repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2
 
 .rot-l {
     -webkit-transform: rotate(-20deg);
-        -ms-transform: rotate(-20deg);
-            transform: rotate(-20deg);
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg);
 }
 
 .rot-r {
     -webkit-transform: rotate(20deg);
-        -ms-transform: rotate(20deg);
-            transform: rotate(20deg);
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
 }
 
 /*-----------------------------------------*/
@@ -90,68 +90,68 @@ repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2
 @-webkit-keyframes polaroid-l {
     0% {
         -webkit-transform: rotate(-20deg);
-                transform: rotate(-20deg);
+        transform: rotate(-20deg);
     }
 
     50% {
         -webkit-transform: rotate(-10deg);
-                transform: rotate(-10deg);
+        transform: rotate(-10deg);
     }
 
     100% {
         -webkit-transform: rotate(-20deg);
-                transform: rotate(-20deg);
+        transform: rotate(-20deg);
     }
 }
 
 @keyframes polaroid-l {
     0% {
         -webkit-transform: rotate(-20deg);
-                transform: rotate(-20deg);
+        transform: rotate(-20deg);
     }
 
     50% {
         -webkit-transform: rotate(-10deg);
-                transform: rotate(-10deg);
+        transform: rotate(-10deg);
     }
 
     100% {
         -webkit-transform: rotate(-20deg);
-                transform: rotate(-20deg);
+        transform: rotate(-20deg);
     }
 }
 
 @-webkit-keyframes polaroid-r {
     0% {
         -webkit-transform: rotate(20deg);
-                transform: rotate(20deg);
+        transform: rotate(20deg);
     }
 
     50% {
         -webkit-transform: rotate(10deg);
-                transform: rotate(10deg);
+        transform: rotate(10deg);
     }
 
     100% {
         -webkit-transform: rotate(20deg);
-                transform: rotate(20deg);
+        transform: rotate(20deg);
     }
 }
 
 @keyframes polaroid-r {
     0% {
         -webkit-transform: rotate(20deg);
-                transform: rotate(20deg);
+        transform: rotate(20deg);
     }
 
     50% {
         -webkit-transform: rotate(10deg);
-                transform: rotate(10deg);
+        transform: rotate(10deg);
     }
 
     100% {
         -webkit-transform: rotate(20deg);
-                transform: rotate(20deg);
+        transform: rotate(20deg);
     }
 }
 
@@ -266,7 +266,7 @@ repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2
 
 /*--------Navigation ende---------*/
 
-.up{
+.up {
     position: fixed;
     bottom: 60px;
     right: 60px;
@@ -274,18 +274,18 @@ repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2
     height: 80px;
     z-index: 9999;
     -webkit-transform: scale(0.9);
-        -ms-transform: scale(0.9);
-            transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
-    
+
 }
 
-.up:hover{
+.up:hover {
     -webkit-transform: scale(1);
-        -ms-transform: scale(1);
-            transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
     margin-bottom: 20px;
 }
 
@@ -305,21 +305,21 @@ repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2
 
 .OpenMenu {
     -webkit-transform: scale(0.9) rotate(0deg);
-        -ms-transform: scale(0.9) rotate(0deg);
-            transform: scale(0.9) rotate(0deg);
+    -ms-transform: scale(0.9) rotate(0deg);
+    transform: scale(0.9) rotate(0deg);
 }
 
 .OpenMenu:hover {
     cursor: pointer;
     -webkit-transform: scale(1) rotate(90deg);
-        -ms-transform: scale(1) rotate(90deg);
-            transform: scale(1) rotate(90deg);
+    -ms-transform: scale(1) rotate(90deg);
+    transform: scale(1) rotate(90deg);
 }
 
 .Open {
     -webkit-transform: rotate(90deg);
-        -ms-transform: rotate(90deg);
-            transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
 
 
@@ -356,14 +356,14 @@ repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2
     width: 300px;
     height: 363px;
     -webkit-animation: polaroid-l 2s ease infinite;
-            animation: polaroid-l 2s ease infinite;
+    animation: polaroid-l 2s ease infinite;
 }
 
 .polaroids-r {
     width: 300px;
     height: 363px;
     -webkit-animation: polaroid-r 2s ease infinite;
-            animation: polaroid-r 2s ease infinite;
+    animation: polaroid-r 2s ease infinite;
 }
 
 
@@ -510,15 +510,15 @@ td {
     -o-transition: 0.5s ease all;
     transition: 0.5s ease all;
     -webkit-transform: scale(0.9);
-        -ms-transform: scale(0.9);
-            transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
 
 }
 
 .KlickMich:hover {
     -webkit-transform: scale(1);
-        -ms-transform: scale(1);
-            transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
 }
 
 
@@ -532,44 +532,44 @@ td {
     @-webkit-keyframes polaroid-l {
         0% {
             -webkit-transform: rotate(0deg);
-                    transform: rotate(0deg);
+            transform: rotate(0deg);
         }
 
         25% {
             -webkit-transform: rotate(-20deg);
-                    transform: rotate(-20deg);
+            transform: rotate(-20deg);
         }
 
         50% {
             -webkit-transform: rotate(20deg);
-                    transform: rotate(20deg);
+            transform: rotate(20deg);
         }
 
         100% {
             -webkit-transform: rotate(0deg);
-                    transform: rotate(0deg);
+            transform: rotate(0deg);
         }
     }
 
     @keyframes polaroid-l {
         0% {
             -webkit-transform: rotate(0deg);
-                    transform: rotate(0deg);
+            transform: rotate(0deg);
         }
 
         25% {
             -webkit-transform: rotate(-20deg);
-                    transform: rotate(-20deg);
+            transform: rotate(-20deg);
         }
 
         50% {
             -webkit-transform: rotate(20deg);
-                    transform: rotate(20deg);
+            transform: rotate(20deg);
         }
 
         100% {
             -webkit-transform: rotate(0deg);
-                    transform: rotate(0deg);
+            transform: rotate(0deg);
         }
     }
 
@@ -578,16 +578,16 @@ td {
     #nav {
         display: none;
     }
-    
+
     #navmobile {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
     }
-    
+
     /*------------------------------*/
-    
-    .up{
+
+    .up {
         display: none;
     }
 
@@ -599,7 +599,7 @@ td {
     .margin-l {
         margin: 0;
     }
-    
+
     /*------------------------------*/
 
     h1 {
@@ -607,7 +607,7 @@ td {
         font-size: 3em;
         margin-top: 200px;
     }
-    
+
     /*------------------------------*/
 
     #Alles {
@@ -616,12 +616,12 @@ td {
         display: -ms-flexbox;
         display: flex;
         -webkit-box-pack: center;
-            -ms-flex-pack: center;
-                justify-content: center;
+        -ms-flex-pack: center;
+        justify-content: center;
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
-            -ms-flex-direction: column;
-                flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
     }
 
     /*------------------------------*/
@@ -637,13 +637,13 @@ td {
     }
 
     /*------------------------------*/
-    
+
     .Geschichte {
         padding: 0;
         width: 100%;
         margin-bottom: 100px;
     }
-    
+
     /*------------------------------*/
 
     Gruende h2 {
@@ -666,7 +666,7 @@ td {
     #Gruende h2 {
         padding: 0;
     }
-    
+
     /*------------------------------*/
 
     .Probleme {
@@ -674,7 +674,7 @@ td {
         width: 100%;
         margin-bottom: 100px;
     }
-    
+
     /*------------------------------*/
 
 
@@ -683,7 +683,7 @@ td {
         padding-left: 0px;
         margin-top: 50px;
     }
-    
+
     /*------------------------------*/
 
 
@@ -692,7 +692,7 @@ td {
         width: 100%;
         margin-bottom: 100px;
     }
-    
+
     /*------------------------------*/
 
     .Zusatztext {
@@ -700,7 +700,7 @@ td {
         width: 100%;
         margin-top: 100px;
     }
-    
+
     /*------------------------------*/
 
     .KlickMich {
@@ -708,34 +708,45 @@ td {
         height: 500px;
         margin-bottom: 100px;
     }
-    
+
     /*------------------------------*/
 
 
     .center-horizontal {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
-            -ms-flex-direction: column;
-                flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
     }
 
     .polaroids-r {
-        width: 300px;
-        height: 363px;
+        width: 280px;
+        height: 343px;
         -webkit-animation: polaroid-l 2s ease infinite;
-                animation: polaroid-l 2s ease infinite;
+        animation: polaroid-l 2s ease infinite;
     }
 
 }
-    /*------------------------------*/
-    
+
+/*------------------------------*/
+
 @media only screen and (max-width: 629px) {
     .KlickMich {
         width: 300px;
         height: 300px;
         margin-bottom: 100px;
     }
-    
+
+    #navmobile li {
+        font-size: 40pt;
+    }
+
+    .OpenMenu:hover {
+        cursor: pointer;
+        -webkit-transform: scale(1) rotate(0deg);
+        -ms-transform: scale(1) rotate(0deg);
+        transform: scale(1) rotate(0deg);
+    }
 }
 
 
