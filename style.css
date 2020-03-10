@@ -159,7 +159,7 @@ repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2
 /*--------------Navigation--------------*/
 
 #nav {
-    background-color: #b11017;
+    background-color: rgb(177, 16, 23);
     font-weight: 700;
     position: fixed;
     margin: 0;
